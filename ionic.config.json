@@ -1,0 +1,7 @@
+{
+  "name": "kwai-clone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
