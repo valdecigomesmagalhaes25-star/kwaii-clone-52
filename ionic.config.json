@@ -3,5 +3,8 @@
   "integrations": {
     "capacitor": {}
   },
-  "type": "react-vite"
+  "type": "custom",
+  "hooks": {
+    "build:before": "npm run build"
+  }
 }
